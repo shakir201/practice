@@ -1,2 +1,2 @@
 # practice
-it is practice
+it is computer
